@@ -1,4 +1,4 @@
-## Taguhi Hakobyan
+## Taguhi Hakobyan: Sept 9, Friday, 2022
 ## HackerRank Challenges Series
 # The Minion Game
 # Game Rules
