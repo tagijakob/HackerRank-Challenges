@@ -50,12 +50,6 @@ class employee:
 class Developer(employee):
     raise_amount = 1.10
 
-
-
-
-
-
-
 print("Number of employees at inception: " +str(employee.num_of_emps))
 emp_1 = employee("Taguhi", "Hakobyan", 20000)
 emp_2 = employee("Daria", "Kim", 30000)
